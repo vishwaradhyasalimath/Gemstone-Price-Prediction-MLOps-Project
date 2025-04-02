@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+numpy
+seaborn
+flask
+mlflow
+dvc
+pytest
+tox
+black==22.8.0
+flake8==5.0.4
+mppy==0.971
+
+-e .
