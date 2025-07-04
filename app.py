@@ -21,7 +21,7 @@ def predict_datapoint():
             y=float(request.form.get("y")),
             z=float(request.form.get("z")),
             cut=request.form.get("cut"),
-            color=request.form.get("colr"),
+            color=request.form.get("color"),
             clarity=request.form.get("clarity"),
         )
         final_data=data.get_data_as_dataframe()

@@ -1,6 +1,6 @@
-FROM python:3.8.18-slim-bookworm
+FROM python:3.10-slim-bookworm
 USER root
-RUN mkdir /app
+RUN mkdir /app 
 COPY . /app/ 
 WORKDIR /app/
 RUN pip3 install -r requirements.txt

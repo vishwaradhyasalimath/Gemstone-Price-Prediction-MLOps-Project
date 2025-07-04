@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOPS_2/mlruns/0/9a9ca77e02c94db8a88c9b35b6afe014/artifacts
+end_time: 1751623017643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a9ca77e02c94db8a88c9b35b6afe014
+run_name: nosy-gnu-279
+run_uuid: 9a9ca77e02c94db8a88c9b35b6afe014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751623007869
+status: 3
+tags: []
+user_id: vishw
