@@ -41,9 +41,7 @@ This project follows a modular MLOps architecture involving the following stages
 - Dockerized the entire application for portability
 - Includes training script, prediction API, and dependencies
 
-### 7. 🛠 Workflow Orchestration
-- End-to-end pipeline orchestrated using **Apache Airflow**
-- DAG for data prep → training → evaluation → deployment
+
 
 ---
 
@@ -57,7 +55,6 @@ This project follows a modular MLOps architecture involving the following stages
 | **DVC** | Data & model versioning |
 | **Git** | Source code management |
 | **Docker** | Containerization |
-| **Apache Airflow** | Workflow orchestration |
 | **MLflow** | Experiment tracking |
 
 
