@@ -58,3 +58,8 @@ This project follows a modular MLOps architecture involving the following stages
 | **MLflow** | Experiment tracking |
 
 
+![image](https://github.com/user-attachments/assets/52189fa1-eafd-4961-9b51-5aac0061de95)
+![Screenshot 2025-07-07 222423](https://github.com/user-attachments/assets/1c1b2035-f27e-409e-bbdd-586c968ef245)
+
+
+
