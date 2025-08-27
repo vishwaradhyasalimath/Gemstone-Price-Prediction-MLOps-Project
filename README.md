@@ -6,7 +6,7 @@ This project aims to predict the price of cubic zirconia gemstones using a machi
 
 ## 📌 Problem Statement
 
-The goal is to predict the price of gemstones based on features such as carat, cut, clarity, color, and depth using machine learning algorithms. The dataset used is `cubic_zirconia.csv`.
+The goal is to predict the price of gemstones based on features such as carat, cut, clarity, color, and depth using machine learning algorithms. The dataset used is `Gemstone_Price_Prediction.csv`.
 
 ---
 
@@ -15,7 +15,7 @@ The goal is to predict the price of gemstones based on features such as carat, c
 This project follows a modular MLOps architecture involving the following stages:
 
 ### 1. 📥 Data Integration
-- Raw data collected from `cubic_zirconia.csv`
+- Raw data collected from `Gemstone_Price_Prediction.csv`
 - Version-controlled with **DVC**
 - Tracked using **Git**
 
